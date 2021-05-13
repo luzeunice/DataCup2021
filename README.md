@@ -2,7 +2,7 @@
 Organizadores: 
 - Héctor Irwin  - hirwin@tec.mx
 - Ricardo López Rodríguez - ricardo.lopez.rodriguez@tec.mx
-- Iván Aguayo - 
+- Iván Aguayo - ivan.aguayo.ial@tec.mx
 - Luz Eunice Angeles Ochoa - luzeunice@tec.mx
 
 
