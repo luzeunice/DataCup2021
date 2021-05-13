@@ -101,4 +101,5 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # CONFERENCISTAS
 
+![image](https://user-images.githubusercontent.com/7227655/118164377-a9f32180-b3e8-11eb-8c54-aa323720c59b.png)
 
