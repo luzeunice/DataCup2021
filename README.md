@@ -29,7 +29,7 @@ El reto consiste en realizar una herramienta que permita detectar si la persona 
 
 
 # Reto 3: Big Data Analytics en la salud / Técnicas de agrupación
-Actualmente se genera y acumula rápidamente un gran volumen de datos clínicos desde la adopción generalizada de los registros médicos (EMR’s). Estos macrodatos en el cuidado de la salud prometen impulsar la evolución del cuidado de la salud de un arte basado en la competencia a una ciencia basada en datos, de un modo reactivo a un modo proactivo, de la medicina única para todos a la medicina personalizada.”
+Actualmente se genera y acumula rápidamente un gran volumen de datos clínicos desde la adopción generalizada de los registros médicos (EMR’s). Estos macrodatos en el cuidado de la salud prometen impulsar la evolución del cuidado de la salud de un arte basado en la competencia a una ciencia basada en datos, de un modo reactivo a un modo proactivo, de la medicina única para todos a la medicina personalizada.
 
 De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la detección y monitoreo de padecimientos, manejo de recursos clínicos e instalaciones médicas al igual que áreas inexploradas. Por lo que este reto exhorta a sus interesados realizar un procedimiento metódico para proponer alternativas a partir de paquetes de datos en el manejo, control o bien gestión de los datos recabados de algún punto de interés en el sector sanitario para su análisis.
 
