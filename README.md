@@ -34,7 +34,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Insights encontrados a partir del problema que se delimitó
 - Conclusiones 
 
-# Carpetas en repositorio
+# CARPETAS EN REPOSITORIOS
 - **Vacunas**: los tweets recabados en un dataset respecto a las vacunas para combatir el COVID-19 a través de esta red social
 - **Fotos**: fotos de staff y participantes
 - **Reto Libre**: datos mágicos
