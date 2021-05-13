@@ -1,8 +1,10 @@
 # DataCup2021
 Organizadores: 
-- Héctor Irwin 
-- Luz Eunice Angeles 
-- 
+- Héctor Irwin  - hirwin@tec.mx
+- Ricardo López Rodríguez - ricardo.lopez.rodriguez@tec.mx
+- Iván Aguayo - 
+- Luz Eunice Angeles Ochoa - luzeunice@tec.mx
+
 
 # RETOS 
 
