@@ -52,6 +52,6 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ## 2. Presentacion: 
 - Se debe enviar la presentación en formato Power Point 
 - El archivo debe tener el nombre: DataCup2021_NombreEquipo.pptx
-- Si la presentación no se puede enviar por correo electrónico cargar en:https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing ( utilizando su cuenta institucional)
+- Si la presentación no se puede enviar por correo electrónico cargar en: https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing (utilizando su cuenta institucional)
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_PRESENTACION_NOMBREEQUIUPO"** a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
