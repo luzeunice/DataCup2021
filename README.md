@@ -104,8 +104,9 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 ![image](https://user-images.githubusercontent.com/7227655/118164377-a9f32180-b3e8-11eb-8c54-aa323720c59b.png)
 
-![image](https://user-images.githubusercontent.com/7227655/118191985-11ba6400-b40b-11eb-9475-c7663647ec88.png)
+![image](https://user-images.githubusercontent.com/7227655/118192395-b046c500-b40b-11eb-9184-5dee246f7c74.png)
 
+![image](https://user-images.githubusercontent.com/7227655/118191985-11ba6400-b40b-11eb-9475-c7663647ec88.png)
 
 ![image](https://user-images.githubusercontent.com/7227655/118164521-d0b15800-b3e8-11eb-8ade-0d88b7cc7d4f.png)
 
