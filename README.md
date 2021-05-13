@@ -25,7 +25,7 @@ El reto consiste en realizar una herramienta que permita detectar si la persona 
 
 De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la detección y monitoreo de padecimientos, manejo de recursos clínicos e instalaciones médicas al igual que áreas inexploradas. Por lo que este reto exhorta a sus interesados realizar un procedimiento metódico para proponer alternativas a partir de paquetes de datos en el manejo, control o bien gestión de los datos recabados de algún punto de interés en el sector sanitario para su análisis.
 
-## Puntos a considerar:
+## Puntos a considerar
 - Contexto
 - Planteamiento de Problema o área de oportunidad identificada
 - Herramientas que se utilizaron para recabar información (datasets) para la propuesta
@@ -41,12 +41,12 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
  
 # ¿Cómo entrego las evidencias del reto? 
 
-## 1. Código: 
+## 1. Código
 - Se debe de compartir un repositorio público de **Github.**
 - En el repositorio se debe colocar todo el código necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_REPO_NOMBREEQUIUPO"** con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
-## 2. Presentación: 
+## 2. Presentación
 - Se debe enviar la presentación en formato **Power Point.**
 - El archivo debe tener el nombre: DataCup2021_NombreEquipo.pptx
 - Si la presentación no se puede enviar por correo electrónico cargar en: https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing (utilizando su cuenta institucional) y colocar el link del archivo en el cuerpo del correo.
