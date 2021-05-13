@@ -110,8 +110,8 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # JURADO
 
-- Presidenta: Lucero Mayela Sotomayor - GOVERNANCE 
-- Jessica Castillo Zuñiga - DATA GOVERNANCE | DATA STRATEGY | CYBERSECURITY -  (https://www.linkedin.com/in/jessica-elizabeth-z%C3%BA%C3%B1iga-castillo-58b00694/)
-- Rafael Urista 
-- Rodrigo Villarreal
+## Presidenta: Lucero Mayela Sotomayor - GOVERNANCE 
+## Jessica Castillo Zuñiga - DATA GOVERNANCE | DATA STRATEGY | CYBERSECURITY -  (https://www.linkedin.com/in/jessica-elizabeth-z%C3%BA%C3%B1iga-castillo-58b00694/)
+## Rafael Urista 
+## Rodrigo Villarreal
 
