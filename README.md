@@ -1,6 +1,6 @@
 # DataCup2021
 
-# Retos 
+# RETOS 
 
 # Reto 1: Vacunas
 En los últimos meses, las redes sociales (en especial twitter) se convierten en un medio de comunicación masivo que puede marcar tendencias en la opinión de las personas respecto a un tema de interés. El reto consiste en analizar los tweets recabados en un dataset respecto a las vacunas para combatir el COVID-19 a través de esta red social.
@@ -39,7 +39,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - **Fotos**: fotos de staff y participantes
 - **Reto Libre**: datos mágicos
  
-# ¿Cómo entrego las evidencias del reto? 
+# ¿CÓMO ENTREGO LAS EVIDENCIAS DEL RETO?
 
 ## 1. Código
 - Se debe de compartir un repositorio público de **Github.**
@@ -52,5 +52,5 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Si la presentación no se puede enviar por correo electrónico cargar en: https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing (utilizando su cuenta institucional) y colocar el link del archivo en el cuerpo del correo.
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_PRESENTACION_NOMBREEQUIUPO"** a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
-# Rúbricas
+# RÚBRICAS
 
