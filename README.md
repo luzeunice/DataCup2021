@@ -44,7 +44,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 ## 1. Código
 - Se debe de compartir un repositorio público de **Github.**
-- En el repositorio se debe colocar todo el código necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
+- En el repositorio se debe colocar todo el código necesario para poder emular la solución con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_REPO_NOMBREEQUIUPO"** con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
 ## 2. Presentación
