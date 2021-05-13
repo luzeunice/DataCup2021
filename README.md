@@ -117,3 +117,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ## Rafael Urista - CIENTIFICO DE DATOS EN SEGURIDAD
 ## Rodrigo Villarreal - INTELIGENCIA DE NEGOCIOS Y FINANZAS
 
+# PROYECTOS y MATERIAL DEL DATA CUP 
+Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. 
+
+
