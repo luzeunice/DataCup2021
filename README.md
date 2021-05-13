@@ -26,7 +26,7 @@ En los últimos meses, las redes sociales (en especial twitter) se convierten en
 El reto consiste en realizar una herramienta que permita detectar si la persona está físicamente al momento de evaluar el reconocimiento facial, evitando falsificación de identidad.
 
 ## Puntos a considerar:
-- El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
+El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
 
 
 # Reto 3: Big Data Analytics en la salud / Técnicas de agrupación
