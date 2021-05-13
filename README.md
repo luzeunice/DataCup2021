@@ -19,19 +19,11 @@ El reto consiste en realizar una herramienta que permita detectar si la persona 
 - El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
 
 
-# Reto libre 1: Big Data Analytics en la salud
+# Reto libre 1: Big Data Analytics en la salud / Técnicas de agrupación
 “Actualmente se genera y acumula rápidamente un gran volumen de datos clínicos desde la adopción generalizada de los registros médicos (EMR’s). Estos macrodatos en el cuidado de la salud prometen impulsar la evolución del cuidado de la salud de un arte basado en la competencia a una ciencia basada en datos, de un modo reactivo a un modo proactivo, de la medicina única para todos a la medicina personalizada.”
 
 De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la detección y monitoreo de padecimientos, manejo de recursos clínicos e instalaciones médicas al igual que áreas inexploradas. Por lo que este reto exhorta a sus interesados realizar un procedimiento metódico para proponer alternativas a partir de paquetes de datos en el manejo, control o bien gestión de los datos recabados de algún punto de interés en el sector sanitario para su análisis.
 
-## Puntos a considerar
-- Contexto
-- Planteamiento de Problema o área de oportunidad identificada
-- Herramientas que se utilizaron para recabar información (datasets) para la propuesta
-- Limpieza y procesamiento de la información.
-- Modelo de predicción utilizado
-- Insights encontrados a partir del problema que se delimitó
-- Conclusiones 
 
 # CARPETAS EN REPOSITORIOS
 - **Vacunas**: los tweets recabados en un dataset respecto a las vacunas para combatir el COVID-19 a través de esta red social
@@ -58,7 +50,8 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se identificaron las áreas de oportunidad del problema planteado
 - Los datos se limpiaron adecuadamente
 - El equipo justifica la eliminación o sustitución de registros para un correcto análisis
-- 
+- Limpieza y procesamiento de la información.
+
 **Analítica Descriptiva**
 - Se identificaron el tipo de variables que se están analizando
 - Se presentan gráficas de análisis exploratorio
@@ -69,7 +62,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Extracción de palabras claves
 - Se describe el funcionamiento del algoritmo de sentimientos
 - Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
-- Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones.
+- Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones o correlaciones.
 
 **Reconocimiento de imagenes**  (Si aplica) 
 - La herramienta debe funcionar con personas en videoconferencia para su demostración.
@@ -77,12 +70,17 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se evaluará la creatividad para validar la presencia de la persona
 - Cascarón de la página para probar lo que se produzca
 
-**Reconicimiento de grupos**  (Si aplica) 
+**Reconicimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
 - Error de clasificacion
+- Planteamiento de Problema o área de oportunidad identificada
+- Herramientas que se utilizaron para recabar información (datasets) para la propuesta
+- Modelo de predicción utilizado
+- Innovación en Insights encontrados a partir del problema que se delimitó. Ejemplo encontrar asociaciones o correlaciones.
+
 
 **Presentación de resultados**
-- Ofrecen un preambulo ante la situación problema
+- Ofrecen un contexto ante la situación problema
 - Presentan visualizaciones claras de los resultados
 - Hacen una correcta interpretación de los datos
 - Los hallazgos encontrados son congruentes con la situación asociada
