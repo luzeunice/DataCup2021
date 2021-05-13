@@ -58,23 +58,24 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Si la presentación no se puede enviar por correo electrónico cargar en: https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing (utilizando su cuenta institucional) y colocar el link del archivo en el cuerpo del correo.
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_PRESENTACION_NOMBREEQUIUPO"** a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
-# RÚBRICAS
+# PUNTOS A EVALUAR:
 
 
 **Procesamiento de datos**
 - Se identificaron las áreas de oportunidad del problema planteado
 - Los datos se limpiaron adecuadamente
 - El equipo justifica la eliminación o sustitución de registros para un correcto análisis
+- 
 **Analítica Descriptiva**
-Se identificaron el tipo de variables que se están analizando
-Se presentan gráficas de análisis exploratorio
-Utilizan medidas de tendencia central o bien dispersión para analizar los datos
-Análisis de sentimientos
-Se describe el funcionamiento del algoritmo de sentimientos
-La predicción de sentimientos de una muestra es buena
-Procesamiento de lenguaje natural
-Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
-Presentación de resultados
+- Se identificaron el tipo de variables que se están analizando
+- Se presentan gráficas de análisis exploratorio
+- Utilizan medidas de tendencia central o bien dispersión para analizar los datos
+
+**Análisis de sentimientos**
+- Se describe el funcionamiento del algoritmo de sentimientos
+- Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
+
+**Presentación de resultados**
 Ofrecen un preambulo ante la situación problema
 Presentan visualizaciones claras de los resultados
 Hacen una correcta interpretación de los datos
