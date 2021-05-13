@@ -60,3 +60,28 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # RÚBRICAS
 
+
+**Procesamiento de datos**
+- Se identificaron las áreas de oportunidad del problema planteado
+- Los datos se limpiaron adecuadamente
+- El equipo justifica la eliminación o sustitución de registros para un correcto análisis
+**Analítica Descriptiva**
+Se identificaron el tipo de variables que se están analizando
+Se presentan gráficas de análisis exploratorio
+Utilizan medidas de tendencia central o bien dispersión para analizar los datos
+Análisis de sentimientos
+Se describe el funcionamiento del algoritmo de sentimientos
+La predicción de sentimientos de una muestra es buena
+Procesamiento de lenguaje natural
+Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
+Presentación de resultados
+Ofrecen un preambulo ante la situación problema
+Presentan visualizaciones claras de los resultados
+Hacen una correcta interpretación de los datos
+Los hallazgos encontrados son congruentes con la situación asociada
+La propuesta se puede encaminar a un ODS
+El resultado es escalable a nuevos contexto
+Su resultado es capaz de hacer predicciones
+Hubo fluidez y consistencia en la presentación
+![image](https://user-images.githubusercontent.com/7227655/118149978-b327c280-b3d7-11eb-8a99-d83ae2905f25.png)
+
