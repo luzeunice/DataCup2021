@@ -7,13 +7,14 @@
 
 ![image](https://user-images.githubusercontent.com/7227655/118155955-6a273c80-b3de-11eb-9803-97039a6fd991.png)
 
-#LENGUAJES/HERRAMIENTAS A UTILIZAR: 
+# LENGUAJES/HERRAMIENTAS A UTILIZAR: 
 - Python
 - Angular
 - R
 - .NET
 - PowerBI
 - Tableau
+- Otro
 
 # RETOS 
 
