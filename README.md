@@ -1,4 +1,5 @@
-# DATACUP2021
+# DataCup2021
+
 **Organizadores:**
 - Héctor Irwin  - hirwin@tec.mx
 - Ricardo López Rodríguez - ricardo.lopez.rodriguez@tec.mx
@@ -26,7 +27,7 @@ En los últimos meses, las redes sociales (en especial twitter) se convierten en
 El reto consiste en realizar una herramienta que permita detectar si la persona está físicamente al momento de evaluar el reconocimiento facial, evitando falsificación de identidad.
 
 ## Puntos a considerar:
-- El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
+El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
 
 
 # Reto 3: Big Data Analytics en la salud / Técnicas de agrupación
@@ -44,7 +45,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 ## 1. Código
 - Se debe de compartir un repositorio público de **Github.**
-- En el repositorio se debe colocar todo el código necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
+- En el repositorio se debe colocar todo el código necesario para poder emular la solución con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_REPO_NOMBREEQUIUPO"** con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
 ## 2. Presentación
@@ -67,7 +68,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se presentan gráficas de análisis exploratorio
 - Utilizan medidas de tendencia central o bien dispersión para analizar los datos
 
-**Análisis de sentimientos**(Si aplica) 
+**Análisis de texto**(Si aplica) 
 - Análisis de sentimientos (positivo, negativo, neutral) por comentario
 - Extracción de palabras claves
 - Se describe el funcionamiento del algoritmo de sentimientos
@@ -80,7 +81,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se evaluará la creatividad para validar la presencia de la persona
 - Cascarón de la página para probar lo que se produzca.
 
-**Reconicimiento de grupos/BigData**  (Si aplica) 
+**Reconocimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
 - Error de clasificacion
 - Planteamiento de Problema o área de oportunidad identificada
@@ -109,8 +110,8 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # JURADO
 
-- Lucero Mayerla Sotomayor
+- Presidenta: Lucero Mayela Sotomayor
 - Jessica Castillo 
-- Rodrillo Villarreal 
 - Rafael Urista 
+- Rodrigo Villarreal
 
