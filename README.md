@@ -68,7 +68,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se presentan gráficas de análisis exploratorio
 - Utilizan medidas de tendencia central o bien dispersión para analizar los datos
 
-**Análisis de sentimientos**(Si aplica) 
+**Análisis de texto**(Si aplica) 
 - Análisis de sentimientos (positivo, negativo, neutral) por comentario
 - Extracción de palabras claves
 - Se describe el funcionamiento del algoritmo de sentimientos
@@ -81,7 +81,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se evaluará la creatividad para validar la presencia de la persona
 - Cascarón de la página para probar lo que se produzca.
 
-**Reconicimiento de grupos/BigData**  (Si aplica) 
+**Reconocimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
 - Error de clasificacion
 - Planteamiento de Problema o área de oportunidad identificada
