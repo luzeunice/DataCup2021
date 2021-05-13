@@ -1,4 +1,4 @@
-# DATACUP2021
+# DataCup2021
 
 **Organizadores:**
 - Héctor Irwin  - hirwin@tec.mx
