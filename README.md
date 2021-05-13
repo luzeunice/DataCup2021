@@ -26,7 +26,7 @@ En los últimos meses, las redes sociales (en especial twitter) se convierten en
 El reto consiste en realizar una herramienta que permita detectar si la persona está físicamente al momento de evaluar el reconocimiento facial, evitando falsificación de identidad.
 
 ## Puntos a considerar:
-El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
+- El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
 
 
 # Reto 3: Big Data Analytics en la salud / Técnicas de agrupación
@@ -44,7 +44,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 ## 1. Código
 - Se debe de compartir un repositorio público de **Github.**
-- En el repositorio se debe colocar todo el código necesario para poder emular la solución con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
+- En el repositorio se debe colocar todo el código necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
 - **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_REPO_NOMBREEQUIUPO"** con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
 ## 2. Presentación
@@ -108,4 +108,9 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ![image](https://user-images.githubusercontent.com/7227655/118164521-d0b15800-b3e8-11eb-8ade-0d88b7cc7d4f.png)
 
 # JURADO
+
+Lucero Mayerla Sotomayor
+Jessica Castillo 
+Rodrillo Villarreal 
+Rafael Urista 
 
