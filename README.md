@@ -78,7 +78,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - La herramienta debe funcionar con personas en videoconferencia para su demostración.
 - Se tiene un buen reconocimiento de imagenes ( Probar y demostrar con 4 ejemplos o escenarios) 
 - Se evaluará la creatividad para validar la presencia de la persona
-- Cascarón de la página para probar lo que se produzca
+- Cascarón de la página para probar lo que se produzca.
 
 **Reconicimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
