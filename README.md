@@ -110,8 +110,8 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # JURADO
 
-Presidenta: Lucero Mayela Sotomayor
-Jessica Castillo 
-Rafael Urista 
-Rodrigo Villarreal
+- Presidenta: Lucero Mayela Sotomayor
+- Jessica Castillo 
+- Rafael Urista 
+- Rodrigo Villarreal
 
