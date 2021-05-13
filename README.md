@@ -46,13 +46,12 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ## 1. Código: 
 - Se debe de compartir un repositorio público de github a las siguientes cuentas: luzeunice, Riloro, HECTOR1028
 - En el repositorio se debe colocar todo el codigo necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
--**Fecha Límite**: 17 de mayo a las 9 am. Enviar un correo con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
+- **Fecha Límite**: 17 de mayo a las 9 am. Enviar un correo con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
 
 ## 2. Presentacion: 
 - Se debe subir la presentación en formato Popwer Point a  : luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 - El archivo debe tener el nombre: DataCup2021_NombreEquipo.pptx
-
--**Fecha Límite**: 17 de mayo a las 11am
+- **Fecha Límite**: 17 de mayo a las 11am
 
 
