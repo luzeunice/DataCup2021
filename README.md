@@ -50,3 +50,9 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 
 ## 2. Presentacion: 
+- Se debe subir la presentación en formato Popwer Point a  : luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
+- El archivo debe tener el nombre: DataCup2021_NombreEquipo.pptx
+
+-**Fecha Límite**: 17 de mayo a las 11am
+
+
