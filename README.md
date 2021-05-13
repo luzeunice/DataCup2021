@@ -99,3 +99,6 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Hubo fluidez y consistencia en la presentación
 
 
+# CONFERENCISTAS
+
+
