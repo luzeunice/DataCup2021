@@ -71,18 +71,24 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se presentan gráficas de análisis exploratorio
 - Utilizan medidas de tendencia central o bien dispersión para analizar los datos
 
-**Análisis de sentimientos**
+**Análisis de sentimientos**(Si aplica) 
 - Se describe el funcionamiento del algoritmo de sentimientos
 - Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
 
+**Reconocimiento de imagenes**  (Si aplica) 
+- Se tiene un buen reconocimiento de imagenes ( Probar y demostrar con 4 ejemplos o escenarios) 
+
+**Reconicimiento de grupos**  (Si aplica) 
+- Se tiene el reconocimiento de grupos con un sustento. 
+- Error de clasificacion
+
 **Presentación de resultados**
-Ofrecen un preambulo ante la situación problema
-Presentan visualizaciones claras de los resultados
-Hacen una correcta interpretación de los datos
-Los hallazgos encontrados son congruentes con la situación asociada
-La propuesta se puede encaminar a un ODS
-El resultado es escalable a nuevos contexto
-Su resultado es capaz de hacer predicciones
-Hubo fluidez y consistencia en la presentación
-![image](https://user-images.githubusercontent.com/7227655/118149978-b327c280-b3d7-11eb-8a99-d83ae2905f25.png)
+- Ofrecen un preambulo ante la situación problema
+- Presentan visualizaciones claras de los resultados
+- Hacen una correcta interpretación de los datos
+- Los hallazgos encontrados son congruentes con la situación asociada
+- El resultado es escalable a nuevos contexto
+- Su resultado es capaz de hacer predicciones
+- Hubo fluidez y consistencia en la presentación
+
 
