@@ -1,4 +1,8 @@
 # DataCup2021
+Organizadores: 
+- Héctor Irwin 
+- Luz Eunice Angeles 
+- 
 
 # RETOS 
 
