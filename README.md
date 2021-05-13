@@ -109,8 +109,8 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # JURADO
 
-Lucero Mayerla Sotomayor
-Jessica Castillo 
-Rodrillo Villarreal 
-Rafael Urista 
+- Lucero Mayerla Sotomayor
+- Jessica Castillo 
+- Rodrillo Villarreal 
+- Rafael Urista 
 
