@@ -5,6 +5,8 @@
 - Iván Aguayo - ivan.aguayo.ial@tec.mx
 - Luz Eunice Angeles Ochoa - luzeunice@tec.mx
 
+![image](https://user-images.githubusercontent.com/7227655/118155955-6a273c80-b3de-11eb-9803-97039a6fd991.png)
+
 
 # RETOS 
 
