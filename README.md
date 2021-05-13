@@ -11,20 +11,13 @@
 # Reto 1: Vacunas
 En los últimos meses, las redes sociales (en especial twitter) se convierten en un medio de comunicación masivo que puede marcar tendencias en la opinión de las personas respecto a un tema de interés. El reto consiste en analizar los tweets recabados en un dataset respecto a las vacunas para combatir el COVID-19 a través de esta red social.
 
-## Puntos importantes:
-- Limpieza y análisis descriptivo de datos
-- Análisis de sentimientos (positivo, negativo, neutral) por comentario
-- Extracción de palabras claves
-- Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual.
 
 # Reto 2: ¿Quién es el que anda ahí?
 El reto consiste en realizar una herramienta que permita detectar si la persona está físicamente al momento de evaluar el reconocimiento facial, evitando falsificación de identidad.
 
 ## Puntos a considerar:
 - El dataset estará conformado con imágenes del staff, jueces al igual que cualquier persona que participará en el concurso, para realizar pruebas. Puede ser complementado con imágenes de personas que los participantes se encuentren acompañados físicamente como roomies, familiares, etc.
-- Se evaluará la creatividad para validar la presencia de la persona
-- La herramienta debe funcionar con personas en videoconferencia para su demostración.
-- Cascarón de la página para probar lo que se produzca
+
 
 # Reto libre 1: Big Data Analytics en la salud
 “Actualmente se genera y acumula rápidamente un gran volumen de datos clínicos desde la adopción generalizada de los registros médicos (EMR’s). Estos macrodatos en el cuidado de la salud prometen impulsar la evolución del cuidado de la salud de un arte basado en la competencia a una ciencia basada en datos, de un modo reactivo a un modo proactivo, de la medicina única para todos a la medicina personalizada.”
@@ -72,11 +65,17 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Utilizan medidas de tendencia central o bien dispersión para analizar los datos
 
 **Análisis de sentimientos**(Si aplica) 
+- Análisis de sentimientos (positivo, negativo, neutral) por comentario
+- Extracción de palabras claves
 - Se describe el funcionamiento del algoritmo de sentimientos
 - Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
+- Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones.
 
 **Reconocimiento de imagenes**  (Si aplica) 
+- La herramienta debe funcionar con personas en videoconferencia para su demostración.
 - Se tiene un buen reconocimiento de imagenes ( Probar y demostrar con 4 ejemplos o escenarios) 
+- Se evaluará la creatividad para validar la presencia de la persona
+- Cascarón de la página para probar lo que se produzca
 
 **Reconicimiento de grupos**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
