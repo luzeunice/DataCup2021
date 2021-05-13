@@ -44,14 +44,14 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 # ¿Cómo entrego las evidencias del reto? 
 
 ## 1. Código: 
-- Se debe de compartir un repositorio público de github a las siguientes cuentas: luzeunice, Riloro, HECTOR1028
-- En el repositorio se debe colocar todo el codigo necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
-- **Fecha Límite**: 17 de mayo a las 9 am. Enviar un correo con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
+- Se debe de compartir un repositorio público de github.
+- En el repositorio se debe colocar todo el código necesario para poder emular la solucuión con una pequeña descripción en el Readme principal. ( Requisitos de programas y librerías, archivos, entre otros. Pasos para poder emular la solución) 
+- **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_REPO_NOMBREEQUIUPO"** con la liga del repositorio público a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
 
 ## 2. Presentacion: 
-- Se debe subir la presentación en formato Popwer Point a  : luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
+- Se debe enviar la presentación en formato Power Point 
 - El archivo debe tener el nombre: DataCup2021_NombreEquipo.pptx
-- **Fecha Límite**: 17 de mayo a las 11am
-
+- Si la presentación no se puede enviar por correo electrónico cargar en:https://drive.google.com/drive/folders/1J8xpoxLJjkaFp4CzGEIirkeEVC92qk29?usp=sharing ( utilizando su cuenta institucional)
+- **Fecha Límite**: 17 de mayo a las 10 am. Enviar un correo con el títiulo: **"DATACUP_PRESENTACION_NOMBREEQUIUPO"** a: luzeunice@tec.mx, ricardo.lopez.rodriguez@tec.mx, hirwin@tec.mx
 
