@@ -128,4 +128,5 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 # PROYECTOS y MATERIAL DEL DATA CUP 
 Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. 
 
-
+# VIDEOS
+Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
