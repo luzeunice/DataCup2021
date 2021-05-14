@@ -125,12 +125,9 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ### Rafael Urista - CIENTIFICO DE DATOS EN SEGURIDAD
 ### Rodrigo Villarreal - INTELIGENCIA DE NEGOCIOS Y FINANZAS
 
+
 # PROYECTOS y MATERIAL DEL DATA CUP 
 Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Proyectos)
-
-
-# VIDEOS
-Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
 
 # TUTORES
 - Héctor Irwin  - hirwin@tec.mx
@@ -138,3 +135,8 @@ Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/Dat
 - Iván Aguayo - ivan.aguayo.ial@tec.mx
 - Luz Eunice Angeles Ochoa - luzeunice@tec.mx
 - Chaim Correa G. -chaimcg@tec.mx
+
+# VIDEOS
+Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
+
+
