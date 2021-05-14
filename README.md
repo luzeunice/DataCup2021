@@ -142,6 +142,6 @@ Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/Dat
 
 # LIGAS COMPARTIDAS 
 - [Servicios cognitivos](https://docs.microsoft.com/en-us/azure/cognitive-services/what-are-cognitive-services#:~:text=%20What%20are%20Azure%20Cognitive%20Services%3F%20%201,speech-enabled%20features%20to%20applications.%20Speech%20service...%20More%20)
-- [Servicios cognitivos Azure]https://channel9.msdn.com/events/Cognitive-Services/Cognitive-Services-Live/Getting-started-with-Azure-Cognitive-Services?term=cognitive%20services&lang-en=true
+- [Servicios cognitivos Azure] (https://channel9.msdn.com/events/Cognitive-Services/Cognitive-Services-Live/Getting-started-with-Azure-Cognitive-Services?term=cognitive%20services&lang-en=true)
 
 
