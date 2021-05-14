@@ -110,6 +110,9 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 ![image](https://user-images.githubusercontent.com/7227655/118164521-d0b15800-b3e8-11eb-8ade-0d88b7cc7d4f.png)
 
+![image](https://user-images.githubusercontent.com/7227655/118203494-d1b2ab80-b421-11eb-9fff-19ba8c6ef70c.png)
+
+
 # JURADO
 
 ## Presidenta: Lucero Mayela Sotomayor - GOVERNANCE 
