@@ -76,10 +76,14 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones o correlaciones.
 
 **Reconocimiento de imagenes**  (Si aplica) 
-- La herramienta debe funcionar con personas en videoconferencia para su demostración.
-- Se tiene un buen reconocimiento de imagenes ( Probar y demostrar con 4 ejemplos o escenarios) 
-- Se evaluará la creatividad para validar la presencia de la persona
-- Cascarón de la página para probar lo que se produzca.
+- Se presenta un modelo que logra detectar rostros en una imágen
+- El modelo logra reconocer personas en imágenes con solo analizar su rostro
+- Se utiliza una cámara para poder obtener nuevas imágenes de personas y realizar el reconociemto facial
+- El modelo detecta si una persona se encuentra físicamente frente a la cámara (Es decir, se puede diferenciar entre el uso de una "foto" y la presencia física de una persona en el proceso de reconocimiento facial)
+- El modelo detecta algunas emociones con base en los gestos del rostro de una persona
+- Las emociones detectadas en una persona son almacenadas para un posible futuro análisis
+- Se utiliza una interfaz de usuario en una plataforma web, para la demostración de funcionamiento del modelo
+
 
 **Reconocimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
