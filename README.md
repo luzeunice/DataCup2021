@@ -129,14 +129,15 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 # PROYECTOS y MATERIAL DEL DATA CUP 
 Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Proyectos)
 
+
+# VIDEOS
+Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
+
 # TUTORES
 - Héctor Irwin  - hirwin@tec.mx
 - Ricardo López Rodríguez - ricardo.lopez.rodriguez@tec.mx
 - Iván Aguayo - ivan.aguayo.ial@tec.mx
 - Luz Eunice Angeles Ochoa - luzeunice@tec.mx
 - Chaim Correa G. -chaimcg@tec.mx
-
-# VIDEOS
-Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
 
 
