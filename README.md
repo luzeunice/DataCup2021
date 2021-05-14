@@ -38,7 +38,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 
 # CARPETAS EN REPOSITORIOS
-- **Vacunas**: los tweets recabados en un dataset respecto a las vacunas para combatir el COVID-19 a través de esta red social
+- **Vacunas**: Dataset de tweets sobre vacunas para combatir el COVID-19 (Fuente: Kaggle, DataOwner:  Daniel Preda , Obtenido el 14 de mayo de 2021)
 - **Fotos**: fotos de staff y participantes
 - **Reto Libre**: datos mágicos
  
