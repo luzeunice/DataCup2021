@@ -126,7 +126,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 ## Rodrigo Villarreal - INTELIGENCIA DE NEGOCIOS Y FINANZAS
 
 # PROYECTOS y MATERIAL DEL DATA CUP 
-Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. [aquí]()
+Los proyectos de cada equipo serán publicados en este repositorio al finalizar el evento. ( Codigo y presentaciones) para consulta pública. [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Proyectos)
 
 
 # VIDEOS
