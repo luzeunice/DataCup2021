@@ -120,10 +120,10 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 
 # JURADO
 
-### Presidenta: Lucero Mayela Sotomayor - GOVERNANCE 
-### Jessica Castillo Zuñiga - DATA GOVERNANCE | DATA STRATEGY | CYBERSECURITY - [LinkedIn](https://www.linkedin.com/in/jessica-elizabeth-z%C3%BA%C3%B1iga-castillo-58b00694/)
-### Rafael Urista - CIENTIFICO DE DATOS EN SEGURIDAD
-### Rodrigo Villarreal - INTELIGENCIA DE NEGOCIOS Y FINANZAS
+- Presidenta: Lucero Mayela Sotomayor - GOVERNANCE 
+- Jessica Castillo Zuñiga - DATA GOVERNANCE | DATA STRATEGY | CYBERSECURITY - [LinkedIn](https://www.linkedin.com/in/jessica-elizabeth-z%C3%BA%C3%B1iga-castillo-58b00694/)
+- Rafael Urista - CIENTIFICO DE DATOS EN SEGURIDAD
+- Rodrigo Villarreal - INTELIGENCIA DE NEGOCIOS Y FINANZAS
 
 
 # PROYECTOS y MATERIAL DEL DATA CUP 
