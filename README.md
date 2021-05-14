@@ -6,7 +6,8 @@
 - Iván Aguayo - ivan.aguayo.ial@tec.mx
 - Luz Eunice Angeles Ochoa - luzeunice@tec.mx
 
-![image](https://user-images.githubusercontent.com/7227655/118155955-6a273c80-b3de-11eb-9803-97039a6fd991.png)
+![image](https://user-images.githubusercontent.com/7227655/118205447-fa3ca480-b425-11eb-99ed-8f04bd2e85bf.png)
+
 
 # LENGUAJES/HERRAMIENTAS A UTILIZAR: 
 - Python
