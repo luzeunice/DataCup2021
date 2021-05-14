@@ -76,8 +76,6 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones o correlaciones.
 
 **Reconocimiento de imagenes**  (Si aplica) 
-- Las imágenes fueron seleccionadas y ordenadas por cada individuo, para un entrenamiento adecuado del modelo
-- El equipo justifica la eliminación o sustitución de algunas imágenes
 - Se presenta un modelo que logra detectar rostros en una imágen
 - El modelo logra reconocer personas en imágenes con solo analizar su rostro
 - Se utiliza una cámara para poder obtener nuevas imágenes de personas y realizar el reconociemto facial
