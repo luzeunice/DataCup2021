@@ -132,7 +132,7 @@ Los proyectos de cada equipo serán publicados en este repositorio al finalizar 
 # VIDEOS
 Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/DataCup2021/tree/main/Videos)
 
-#TUTORES
+# TUTORES
 - Héctor Irwin  - hirwin@tec.mx
 - Ricardo López Rodríguez - ricardo.lopez.rodriguez@tec.mx
 - Iván Aguayo - ivan.aguayo.ial@tec.mx
