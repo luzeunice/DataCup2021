@@ -147,5 +147,5 @@ Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/Dat
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
 # MATERIAL COMPARTIDO 
-- [Algoritmo de Agrupación](https://github.com/luzeunice/DataCup2021/tree/main/AlgoritosAgrupacion)
+- [Algoritmo de Agrupación](https://github.com/luzeunice/DataCup2021/tree/main/AlgoritmosAgrupacion)
 
