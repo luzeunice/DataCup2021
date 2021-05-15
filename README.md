@@ -75,6 +75,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - Se describe el funcionamiento del algoritmo de sentimientos
 - Se presentan frecuencia de palabras, identificación de entidades o bien reconocimiento de sintaxis
 - Al menos un insight encontrado que pueda contextualizarse con algún fenómeno actual. Es posible buscar otra información para realizar asociaciones o correlaciones.
+- Presición de clasificación de sentimiento
 
 **Reconocimiento de imagenes**  (Si aplica) 
 - Se presenta un modelo que logra detectar rostros en una imágen
