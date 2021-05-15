@@ -146,4 +146,6 @@ Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/Dat
 - [Servicios cognitivos Azure](https://channel9.msdn.com/events/Cognitive-Services/Cognitive-Services-Live/Getting-started-with-Azure-Cognitive-Services?term=cognitive%20services&lang-en=true)
 - [Scikit-learn](https://scikit-learn.org/stable/)
 
+#MATERIAL COMPARTIDO 
+- [Algoritmo de Agrupación]()
 
