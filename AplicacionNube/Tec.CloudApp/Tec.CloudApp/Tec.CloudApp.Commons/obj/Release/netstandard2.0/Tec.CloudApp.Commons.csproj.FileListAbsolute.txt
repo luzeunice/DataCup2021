@@ -1,0 +1,9 @@
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\bin\Release\netstandard2.0\Tec.CloudApp.Commons.deps.json
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\bin\Release\netstandard2.0\Tec.CloudApp.Commons.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\bin\Release\netstandard2.0\Tec.CloudApp.Commons.pdb
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.csprojAssemblyReference.cache
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.AssemblyInfoInputs.cache
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.AssemblyInfo.cs
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.csproj.CoreCompileInputs.cache
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Commons\obj\Release\netstandard2.0\Tec.CloudApp.Commons.pdb

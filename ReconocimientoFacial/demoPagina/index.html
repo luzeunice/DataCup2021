@@ -1,0 +1,455 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head >
+    <title>I'm Here</title>
+   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+        integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> 
+    
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+
+    <div>
+        <nav class="navbar sticky-top navbar-light" style="background-color: #000000;">
+            <span class="navbar-brand mb-0 h1">
+                <img src="/figures/eyebb.png" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+                <h style="color: white;">I'm Here Project v1.0</h>
+            </span>
+            <!--
+                    <span class="navbar-brand mb-0 h1">I'm Here Project</span>
+                    class="d-flex justify-content-center"
+                    -->
+        </nav>
+    </div>
+</head>
+
+<body>   
+
+    <article>
+        <div class = "container-fluid">
+
+            <div class = "row">
+                <div class = "col-8 ">
+                    <div class = "title-section">
+                        <h1 id = "user"> </h1>
+                    </div>
+                </div>
+                <div class = "col-4">
+                    <div class = "title-section">
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class = "row">
+                <div class = "col-8">
+                    <div class = "content-section">
+                       
+                            <video id="video">Video stream not avaible</video>
+                            <button id="startbutton" class="btn btn-primary">Capture</button>
+                        
+                        <canvas id="canvas">
+                        
+                            <div class="output">
+                                <img id="photo" alt="The screen capture will appear in this box.">
+                            </div>
+                        </canvas>
+
+                    </div>
+                </div>
+
+                <div class="col-4 d-flex justify-content-center">
+                    <div class = "sidebar-section">
+                        <div class = "sticky-top">
+                            <div class = "sidebar-content">
+
+                                <div>
+                                    <h4 id="user_name">Usuario:</h1>
+                                    <h4 id="user_nomina">Nómina:</h3>
+                                </div>
+cd
+                                <table class="table ">
+                                    <thead>
+                                        <tr>
+                                            <th scope="col">#</th>
+                                            <th scope="col">Emociones</th>
+                                            <th scope="col">Accuracy value %</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">1</th>
+                                            <td>Enojo</td>
+                                            <td id="anger"></td>
+                                
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">2</th>
+                                            <td>Desprecio</td>
+                                            <td id="contempt"></td>
+                                
+                                        </tr>
+                                        <tr>
+                                            <th scope="disgust">3</th>
+                                            <td>Disgusto</td>
+                                            <td id="disgust"></td>
+                                
+                                        </tr>
+                                
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Miedo</td>
+                                            <td id="fear"></td>
+                                        </tr>
+                                
+                                        <tr>
+                                            <th scope="row">4</th>
+                                            <td>Felicidad</td>
+                                            <td id="happiness"></td>
+                                        </tr>
+                                
+                                        <tr>
+                                            <th scope="row">5</th>
+                                            <td>Neutral</td>
+                                            <td id="neutral"></td>
+                                        </tr>
+                                
+                                        <tr>
+                                            <th scope="row">6</th>
+                                            <td>Tristeza</td>
+                                            <td id="sadness"></td>
+                                        </tr>
+                                
+                                        <tr>
+                                            <th scope="row">7</th>
+                                            <td>Asombro</td>
+                                            <td id="surprise"></td>
+                                        </tr>
+                                
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>       
+        </div>
+        
+    </article>
+</body>
+
+<script src="azure-storage-blob.js" charset="utf-8"></script>
+
+<script>
+
+    var width = 1000/1.2; //1000 ;//320;    // We will scale the photo width to this
+    var height = 0;     // This will be computed based on the input stream
+
+    var streaming = false;
+
+    var video = null;
+    var canvas = null;
+    var photo = null;
+    var startbutton = null;
+
+    //The startup() function is run when the page has finished loading
+    function startup() {
+
+        video = document.getElementById('video');
+        canvas = document.getElementById('canvas');
+        photo = document.getElementById('photo');
+        startbutton = document.getElementById('startbutton');
+
+        navigator.mediaDevices.getUserMedia({ video: true, audio: false }) // requesting a video stream (without audio).
+
+            .then(function (stream) {
+                video.srcObject = stream;
+                video.play();
+            })
+            .catch(function (err) {
+                console.log("An error occurred: " + err);
+            });
+
+        video.addEventListener('canplay', function (ev) {
+            if (!streaming) {
+                height = video.videoHeight / (video.videoWidth / width);
+
+                video.setAttribute('width', width);
+                video.setAttribute('height', height);
+                canvas.setAttribute('width', width/4);
+                canvas.setAttribute('height', height/4);
+                streaming = true;
+            }
+        }, false);
+
+        // Handle clicks on the button
+        startbutton.addEventListener('click', function (ev) {
+            takepicture();
+            ev.preventDefault();
+        }, false);
+
+        clearphoto();
+    }
+
+    startup();
+
+    function clearphoto() {
+
+        var context = canvas.getContext('2d');
+        context.fillStyle = "#AAA";
+        context.fillRect(0, 0, canvas.width, canvas.height);
+
+        var data = canvas.toDataURL('image/png');
+        photo.setAttribute('src', data);
+    }
+
+    function takepicture() {
+
+        console.log("TAKING PICTURE ...");
+        var context = canvas.getContext('2d');
+
+        if (width && height) {
+            canvas.width = width;
+            canvas.height = height;
+            context.drawImage(video, 0, 0, width, height);
+
+            var data = canvas.toDataURL('image/png');
+            var  dateName = currentDate() + ".png";
+       
+            //base64 data to blob...
+            var blob =  dataURItoBlob(data);
+            //figure.image = blob;
+            
+            var figure = {
+                image: blob,
+                name: dateName
+            }
+
+            console.log("DATA--->");
+            console.log(figure.image);
+            console.log(figure.name);
+            uploadBlob(figure)
+           
+            photo.setAttribute('src', data);
+
+        } else {
+            clearphoto();
+        }
+
+    }
+
+
+    //Current date...
+    function currentDate() {
+
+            const chain = new Date();
+            const day = chain.getDate();
+            const month = chain.getMonth();
+            const year = chain.getFullYear();
+            const hours = chain.getHours();
+            const minutes = chain.getMinutes();
+            const seconds = chain.getSeconds();
+            const milli = chain.getMilliseconds();
+
+            const r = day.toString() + month.toString() + year.toString() +
+                hours.toString() + minutes.toString() + seconds.toString() + milli.toString();
+
+            return r;
+        }
+    
+    // Creando un objeto BLOB desde un string Base 64 ....
+    function dataURItoBlob(dataURI) {
+        console.log("HELLOOO BLOOOOOOOOB :/ *******");
+        // convert base64/URLEncoded data component to raw binary data held in a string
+        var byteString;
+        if (dataURI.split(',')[0].indexOf('base64') >= 0)
+            byteString = atob(dataURI.split(',')[1]);
+        else
+            byteString = unescape(dataURI.split(',')[1]);
+
+        // separate out the mime component
+        var mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
+
+        // write the bytes of the string to a typed array
+        var ia = new Uint8Array(byteString.length);
+        for (var i = 0; i < byteString.length; i++) {
+            ia[i] = byteString.charCodeAt(i);
+        }
+
+        return new Blob([ia], { type: mimeString });
+    }
+
+    const createContainerButton = document.getElementById("create-container-button");
+    const deleteContainerButton = document.getElementById("delete-container-button");
+    const selectButton = document.getElementById("select-button");
+    const fileInput = document.getElementById("file-input");
+    const listButton = document.getElementById("list-button");
+    const deleteButton = document.getElementById("delete-button");
+    const status = document.getElementById("status");
+    const fileList = document.getElementById("file-list");
+
+    const reportStatus = message => {
+        status.innerHTML += `${message}<br/>`;
+        status.scrollTop = status.scrollHeight;
+    }
+
+   
+    // var sasString = ""
+    // var successM = ""
+    // GET HTTP request to the server in order to get an SAS ...
+    // $.ajax({
+    //     url: 'http://127.0.0.1:5000/generateSAS',
+    //     method: 'GET',
+    //     dataType: 'json',
+    //     success: function (res) {
+    //         sasString = res.sas
+    //         successM = "200 OK"
+    //     }
+    // })
+   
+    //Azure storage account info
+    //The shared access signature (SAS) is used by code running in the browser to authorize Azure Blob storage requests//
+    //You need to enable cross-origin resource sharing (CORS).
+    const accountName = "accountName"; // Name of the storage account
+    const containerName = "images";
+    var containerURL = null;
+
+    // Getting an SAS string in a promise...
+    let sas_promise = new Promise((resolve, reject)=>{            
+        //GET HTTP request to the server in order to get an SAS ...
+        console.log("Before http request ....")
+        $.ajax({
+            //url: 'http://127.0.0.1:5000/generateSAS',
+            url: 'http://localhost:7071/api/generate_sas',
+            method: 'GET',
+            dataType: 'json',
+            success: function (res) {            
+                resolve(res.sas)  //fulfilled promise
+            }
+        });
+    })
+
+    sas_promise.then((sasString) => {
+        console.log("Inside .then method azure function OK ...." + sasString)
+        containerURL = new azblob.ContainerURL(
+            `https://${accountName}.blob.core.windows.net/${containerName}?${sasString}`,
+            azblob.StorageURL.newPipeline(new azblob.AnonymousCredential));
+    })
+
+    console.log("Declaration of blob functions")
+     //UploadingBlob ...
+    const uploadBlob = async (file) => {
+
+            console.log("file ----->");
+            console.log(containerURL.getProperties())
+            console.log(file);
+            try {
+
+                console.log("Uploading Blob ...");
+                const promises = [];
+                console.log("antes de block");
+                const blockBlobURL = azblob.BlockBlobURL.fromContainerURL(containerURL, file.name);
+                console.log("blockBlobURL Intentando subir datos al servidor python Flask------------------->");
+                console.log(blockBlobURL.url);  
+               
+
+                promises.push(azblob.uploadBrowserDataToBlockBlob(
+                    azblob.Aborter.none, file.image, blockBlobURL));
+                
+                await Promise.all(promises);
+                console.log("Done");   
+                var urlJson = { 
+                    imageUrl: blockBlobURL.url, 
+                    dataType: "Json"
+                    }
+                //POST request to identify face azure function...
+                $.ajax({
+                    url: 'http://localhost:7071/api/identify_faces',
+                    method: 'POST',
+                    dataType: 'json',
+                    data: JSON.stringify(urlJson),
+                    contentType: 'application/json',
+                    success: function (response) {
+                        $("#user_name").text("Usuario: " + response.name);
+                        $("#user_nomina").text("Nómina: " + response.nomina);
+                        console.log(response);
+                    }
+                });
+                //POST request to analyze emotions azure function...
+                $.ajax({
+                    url: 'http://localhost:7071/api/analyze_emotions',
+                    method: 'POST',
+                    dataType: 'json',
+                    data: JSON.stringify(urlJson),
+                    contentType: 'application/json',
+                    success: function (response) {
+                        $("#anger").text(response.anger*100 + '%');
+                        $("#contempt").text(response.contempt*100 + '%');
+                        $("#disgust").text(response.disgust*100 + '%');
+                        $("#fear").text(response.fear*100 + '%');
+                        $("#happiness").text(response.happiness*100 + '%');
+                        $("#neutral").text(response.neutral*100 + '%');
+                        $("#sadness").text(response.sadness*100 + '%');
+                        $("#surprise").text(response.surprise*100 + '%');
+                        console.log(response);
+                    }
+                });
+
+                console.log(JSON.stringify(urlJson));
+            } catch (error) {
+                //reportStatus(error.body.message);
+                console.log("error");
+            }
+        }
+
+    //UploadingFiles
+    const uploadFiles = async () => {
+        try {
+           // reportStatus("Uploading files...");
+            console.log("Uploading files")
+            const promises = [];
+            for (const file of fileInput.files) {
+                const blockBlobURL = azblob.BlockBlobURL.fromContainerURL(containerURL, file.name);
+                promises.push(azblob.uploadBrowserDataToBlockBlob(
+                    azblob.Aborter.none, file, blockBlobURL));
+            }
+            await Promise.all(promises);
+            //reportStatus("Done.");
+            console.log("Done");
+            //listFiles();
+        } catch (error) {
+            //reportStatus(error.body.message);
+            console.log("Error");
+        }
+    }
+
+    selectButton.addEventListener("click", () => fileInput.click());
+    fileInput.addEventListener("change", uploadFiles);
+
+    //Delete blobs
+    const deleteFiles = async () => {
+        try {
+            if (fileList.selectedOptions.length > 0) {
+                reportStatus("Deleting files...");
+                for (const option of fileList.selectedOptions) {
+                    const blobURL = azblob.BlobURL.fromContainerURL(containerURL, option.text);
+                    await blobURL.delete(azblob.Aborter.none);
+                }
+                reportStatus("Done.");
+                listFiles();
+            } else {
+                reportStatus("No files selected.");
+            }
+        } catch (error) {
+            reportStatus(error.body.message);
+        }
+    };
+
+
+</script>
+
+</html>

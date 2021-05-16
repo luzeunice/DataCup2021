@@ -1,0 +1,13 @@
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Api.exe
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Api.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Api.deps.json
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Api.runtimeconfig.json
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Api.pdb
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Business.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Commons.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Persistence.dll
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Business.pdb
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Commons.pdb
+C:\Users\JuanA\source\repos\Tec.CloudApp\Tec.CloudApp.Api\obj\Release\netcoreapp3.1\PubTmp\Out\Tec.CloudApp.Persistence.pdb
