@@ -153,4 +153,5 @@ Podrás encontrar los videos del evento [aquí](https://github.com/luzeunice/Dat
 # MATERIAL COMPARTIDO 
 - [Algoritmo de Agrupación ](https://github.com/luzeunice/DataCup2021/tree/main/AlgoritmosAgrupacion)
 - [Aplicacion en la nube ](https://github.com/luzeunice/DataCup2021/tree/main/AplicacionNube)
+- [Reconocimiento Facial](https://github.com/luzeunice/DataCup2021/tree/main/ReconocimientoFacial)
 
