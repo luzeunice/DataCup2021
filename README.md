@@ -85,7 +85,7 @@ De forma que la ciencia de datos presenta múltiples áreas de oportunidad en la
 - El modelo detecta algunas emociones con base en los gestos del rostro de una persona
 - Las emociones detectadas en una persona son almacenadas para un posible futuro análisis
 - Se utiliza una interfaz de usuario en una plataforma web, para la demostración de funcionamiento del modelo
-
+- Herramientas de antifraude : El modelo detecta si una persona se encuentra físicamente frente a la cámara (Es decir, se puede diferenciar entre el uso de una "foto" y la presencia física de una persona en el proceso de reconocimiento facial)
 
 **Reconocimiento de grupos/BigData**  (Si aplica) 
 - Se tiene el reconocimiento de grupos con un sustento. 
